@@ -1,3 +1,7 @@
+##This version adds slightly buggy polygon support.
+##It initializes with stable points rather than polygons,
+##with the polygon initializers commented out for easy access.
+
 from __future__ import division
 from matrices_4 import matrix
 import math, Tkinter, msvcrt, random
