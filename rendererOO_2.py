@@ -1,3 +1,7 @@
+##This is the stable version, it initializes a tkinter window with a hollow cube made of points
+##which can be navigated using W, A, S, and D for standard movement, R and F to move up and down,
+##and K, O, L, ;, Z, and X for rotation.
+
 from __future__ import division
 from matrices_4 import matrix
 import math, Tkinter, msvcrt
