@@ -1,3 +1,5 @@
+##This version should be run to test the (terribly low) efficiency of the renderer
+
 from __future__ import division
 from matrices_4 import matrix
 import math, Tkinter, msvcrt
